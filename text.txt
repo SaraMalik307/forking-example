@@ -1,0 +1,2 @@
+#!/bin/bash
+The advantage of Forking workflow is that contribution can be integrated without the need to push a single central repository . A developer push to their own server side repository. Only the project maintainer can push to the official repository.You create a new feature branch in your local repo and work is done to complete the new feature. Git commit is executed to save the changes. You then push the new branch to your remote forked repo.
